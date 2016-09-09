@@ -1,2 +1,3 @@
 # Random-Tests
-Random stuff
+
+C#, MVVM, WPF/GUI testing and practice. Using Visual Studio ide.
